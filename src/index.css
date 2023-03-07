@@ -1,17 +1,17 @@
 body {
   height: 100vh;
+  background: #21618c;
+  overflow-y: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #21618c;
-  overflow-y: hidden;
 }
 
 #quote-box {
   background: #fbfcfc;
   padding: 30px;
   max-width: 600px;
-  min-height: 400px;
+  max-height: 80vh;
   display: grid;
   gap: 10px;
 }
@@ -22,10 +22,10 @@ body {
   text-align: center;
 }
 #text span {
-  font-size: 20px;
+  font-size: 10px;
 }
 #text h1 {
-  font-size: 30px;
+  font-size: 20px;
 }
 #author {
   font-size: 20px;
