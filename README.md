@@ -27,7 +27,7 @@ displays quote with auhtor on page, same goes by clicking button "New Quote"
 
 ## Links
 * Solution URL - [Solution](https://github.com/iraklikutchiashvili/react-quote)
-* Live Site URL - [Live URL](https://playful-bubblegum-4c9a45.netlify.app)
+* Live Site URL - [Live URL](https://chimerical-sable-cb6d31.netlify.app)
 
 
 ## Author
